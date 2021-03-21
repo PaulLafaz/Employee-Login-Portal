@@ -8,8 +8,8 @@ The application itself allows users (employees) to log in to the companies porta
   3. **Update** any of their personal details.
 
 The application also allows administator of the website to log in and perform new higher-privilege actions such as:
-  1. **View any** employees personal details
-  2. **Update any** employees existing password and personal details.
+  1. **View any** employee's personal details
+  2. **Update any** employee's existing password and personal details.
   3. **Add** a new employee to the database.
   4. **Delete** an existing employee from the database.
   
